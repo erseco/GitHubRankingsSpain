@@ -1,6 +1,6 @@
 # Ranking Lugo
 
-Generado 08:32PM-March-07-2018.
+Generado 08:03PM-March-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -24,17 +24,17 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |10|[JCarlosVillar](https://github.com/JCarlosVillar)|66|0|5|4|2016-04-26|![JCarlosVillar](https://avatars1.githubusercontent.com/u/18684495)|
 |11|[joserprieto](https://github.com/joserprieto)|28|0|25|10|2011-10-21|![joserprieto](https://avatars2.githubusercontent.com/u/1142233)|
 |12|[chavaone](https://github.com/chavaone)|24|0|31|24|2011-07-28|![chavaone](https://avatars1.githubusercontent.com/u/944290)|
-|13|[rodrigorega](https://github.com/rodrigorega)|20|0|16|4|2013-01-31|![rodrigorega](https://avatars2.githubusercontent.com/u/3441785)|
-|14|[MarcosBL](https://github.com/MarcosBL)|20|0|47|38|2010-09-06|![MarcosBL](https://avatars1.githubusercontent.com/u/389801)|
+|13|[MarcosBL](https://github.com/MarcosBL)|20|0|47|38|2010-09-06|![MarcosBL](https://avatars1.githubusercontent.com/u/389801)|
+|14|[rodrigorega](https://github.com/rodrigorega)|20|0|16|4|2013-01-31|![rodrigorega](https://avatars2.githubusercontent.com/u/3441785)|
 |15|[rubenhortas](https://github.com/rubenhortas)|7|0|30|37|2013-09-02|![rubenhortas](https://avatars2.githubusercontent.com/u/5363817)|
 |16|[WuShell](https://github.com/WuShell)|6|0|10|5|2011-06-25|![WuShell](https://avatars3.githubusercontent.com/u/875005)|
 |17|[man08](https://github.com/man08)|6|0|2|2|2015-07-07|![man08](https://avatars0.githubusercontent.com/u/13219860)|
 |18|[NeoPolus](https://github.com/NeoPolus)|3|0|7|4|2012-02-04|![NeoPolus](https://avatars1.githubusercontent.com/u/1407768)|
-|19|[michon](https://github.com/michon)|1|0|7|3|2009-04-06|![michon](https://avatars3.githubusercontent.com/u/70982)|
-|20|[jorgeSV](https://github.com/jorgeSV)|1|0|25|5|2013-04-18|![jorgeSV](https://avatars1.githubusercontent.com/u/4189901)|
+|19|[jorgeSV](https://github.com/jorgeSV)|1|0|25|5|2013-04-18|![jorgeSV](https://avatars1.githubusercontent.com/u/4189901)|
+|20|[michon](https://github.com/michon)|1|0|7|3|2009-04-06|![michon](https://avatars3.githubusercontent.com/u/70982)|
 |21|[eccoilmoro](https://github.com/eccoilmoro)|1|0|16|2|2013-01-28|![eccoilmoro](https://avatars1.githubusercontent.com/u/3404161)|
 |22|[Reptiliancore](https://github.com/Reptiliancore)|1|0|4|2|2016-02-08|![Reptiliancore](https://avatars1.githubusercontent.com/u/17118706)|
-|23|[chucu](https://github.com/chucu)|0|0|9|4|2012-11-15|![chucu](https://avatars0.githubusercontent.com/u/2808398)|
-|24|[albertoluengo](https://github.com/albertoluengo)|0|3|3|3|2012-08-30|![albertoluengo](https://avatars2.githubusercontent.com/u/2248231)|
-|25|[Ebrithil](https://github.com/Ebrithil)|0|0|6|5|2008-12-20|![Ebrithil](https://avatars2.githubusercontent.com/u/41769)|
+|23|[albertoluengo](https://github.com/albertoluengo)|0|3|3|3|2012-08-30|![albertoluengo](https://avatars2.githubusercontent.com/u/2248231)|
+|24|[Ebrithil](https://github.com/Ebrithil)|0|0|6|5|2008-12-20|![Ebrithil](https://avatars2.githubusercontent.com/u/41769)|
+|25|[chucu](https://github.com/chucu)|0|0|9|4|2012-11-15|![chucu](https://avatars0.githubusercontent.com/u/2808398)|
 |26|[santiarg](https://github.com/santiarg)|0|0|4|4|2014-05-16|![santiarg](https://avatars1.githubusercontent.com/u/7600476)|

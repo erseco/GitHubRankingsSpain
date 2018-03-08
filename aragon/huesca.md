@@ -1,6 +1,6 @@
 # Ranking Huesca
 
-Generado 08:22PM-March-07-2018.
+Generado 07:55PM-March-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,8 +12,8 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[fernand0](https://github.com/fernand0)|519|0|39|40|2008-03-06|![fernand0](https://avatars0.githubusercontent.com/u/2467)|
-|2|[SrPerso](https://github.com/SrPerso)|362|0|12|11|2016-02-09|![SrPerso](https://avatars0.githubusercontent.com/u/17146733)|
+|1|[fernand0](https://github.com/fernand0)|520|0|39|40|2008-03-06|![fernand0](https://avatars0.githubusercontent.com/u/2467)|
+|2|[SrPerso](https://github.com/SrPerso)|365|0|12|11|2016-02-09|![SrPerso](https://avatars0.githubusercontent.com/u/17146733)|
 |3|[jmendiara](https://github.com/jmendiara)|127|0|51|31|2011-06-15|![jmendiara](https://avatars0.githubusercontent.com/u/851359)|
 |4|[inazense](https://github.com/inazense)|78|0|7|2|2016-08-16|![inazense](https://avatars0.githubusercontent.com/u/21070069)|
 |5|[hbiarge](https://github.com/hbiarge)|63|0|30|34|2010-11-08|![hbiarge](https://avatars0.githubusercontent.com/u/473010)|

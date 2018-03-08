@@ -1,6 +1,6 @@
 # Ranking Cantabria
 
-Generado 08:35PM-March-07-2018.
+Generado 08:05PM-March-08-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,12 +12,12 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[piedraj](https://github.com/piedraj)|436|0|9|10|2012-12-05|![piedraj](https://avatars3.githubusercontent.com/u/2972752)|
+|1|[piedraj](https://github.com/piedraj)|438|0|9|10|2012-12-05|![piedraj](https://avatars3.githubusercontent.com/u/2972752)|
 |2|[VictorVelarde](https://github.com/VictorVelarde)|425|133|22|18|2010-10-28|![VictorVelarde](https://avatars0.githubusercontent.com/u/458196)|
 |3|[jbedia](https://github.com/jbedia)|373|0|8|3|2013-10-28|![jbedia](https://avatars3.githubusercontent.com/u/5796721)|
 |4|[lmfresneda](https://github.com/lmfresneda)|305|0|23|2|2015-06-20|![lmfresneda](https://avatars2.githubusercontent.com/u/12979415)|
 |5|[MaQuiNa1995](https://github.com/MaQuiNa1995)|197|0|23|2|2015-12-14|![MaQuiNa1995](https://avatars1.githubusercontent.com/u/16287848)|
-|6|[latacita](https://github.com/latacita)|149|0|41|2|2013-05-03|![latacita](https://avatars1.githubusercontent.com/u/4329371)|
+|6|[latacita](https://github.com/latacita)|150|0|41|2|2013-05-03|![latacita](https://avatars1.githubusercontent.com/u/4329371)|
 |7|[rocimunoz](https://github.com/rocimunoz)|126|1|11|9|2013-03-02|![rocimunoz](https://avatars3.githubusercontent.com/u/3746906)|
 |8|[xarlybovi](https://github.com/xarlybovi)|125|0|20|2|2015-10-28|![xarlybovi](https://avatars1.githubusercontent.com/u/15369154)|
 |9|[jomali](https://github.com/jomali)|121|0|14|4|2012-02-01|![jomali](https://avatars3.githubusercontent.com/u/1397370)|
@@ -31,7 +31,7 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |17|[juanmadlg](https://github.com/juanmadlg)|40|0|15|2|2011-11-04|![juanmadlg](https://avatars0.githubusercontent.com/u/1173469)|
 |18|[abalozz](https://github.com/abalozz)|37|0|39|51|2012-01-08|![abalozz](https://avatars1.githubusercontent.com/u/1312336)|
 |19|[andrestraspuesto](https://github.com/andrestraspuesto)|34|0|11|2|2014-01-16|![andrestraspuesto](https://avatars1.githubusercontent.com/u/6418792)|
-|20|[nothnk](https://github.com/nothnk)|23|2013|37|15|2009-09-05|![nothnk](https://avatars0.githubusercontent.com/u/123532)|
+|20|[nothnk](https://github.com/nothnk)|28|2008|37|15|2009-09-05|![nothnk](https://avatars0.githubusercontent.com/u/123532)|
 |21|[dsmatilla](https://github.com/dsmatilla)|22|0|11|6|2011-02-14|![dsmatilla](https://avatars0.githubusercontent.com/u/618172)|
 |22|[pouillon](https://github.com/pouillon)|22|0|6|5|2013-09-16|![pouillon](https://avatars0.githubusercontent.com/u/5470877)|
 |23|[fernandezcuesta](https://github.com/fernandezcuesta)|18|0|29|4|2014-04-16|![fernandezcuesta](https://avatars0.githubusercontent.com/u/7312236)|
@@ -39,9 +39,9 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 |25|[moracabanas](https://github.com/moracabanas)|12|0|10|2|2013-05-09|![moracabanas](https://avatars0.githubusercontent.com/u/4382333)|
 |26|[GabiBarajas](https://github.com/GabiBarajas)|12|0|10|2|2017-01-18|![GabiBarajas](https://avatars1.githubusercontent.com/u/25196739)|
 |27|[chemunoz](https://github.com/chemunoz)|8|0|7|14|2016-01-13|![chemunoz](https://avatars0.githubusercontent.com/u/16680009)|
-|28|[david-gomez-fernandez](https://github.com/david-gomez-fernandez)|7|0|3|4|2012-03-23|![david-gomez-fernandez](https://avatars0.githubusercontent.com/u/1568677)|
-|29|[tclauss](https://github.com/tclauss)|7|0|7|5|2013-02-11|![tclauss](https://avatars3.githubusercontent.com/u/3531048)|
-|30|[StrongeLeeroy](https://github.com/StrongeLeeroy)|7|0|27|30|2011-06-03|![StrongeLeeroy](https://avatars0.githubusercontent.com/u/828457)|
+|28|[StrongeLeeroy](https://github.com/StrongeLeeroy)|7|0|27|30|2011-06-03|![StrongeLeeroy](https://avatars0.githubusercontent.com/u/828457)|
+|29|[david-gomez-fernandez](https://github.com/david-gomez-fernandez)|7|0|3|4|2012-03-23|![david-gomez-fernandez](https://avatars0.githubusercontent.com/u/1568677)|
+|30|[tclauss](https://github.com/tclauss)|7|0|7|5|2013-02-11|![tclauss](https://avatars3.githubusercontent.com/u/3531048)|
 |31|[magranero](https://github.com/magranero)|6|0|5|2|2016-03-30|![magranero](https://avatars3.githubusercontent.com/u/18167085)|
 |32|[Barbrady](https://github.com/Barbrady)|5|0|5|2|2014-01-18|![Barbrady](https://avatars1.githubusercontent.com/u/6436548)|
 |33|[GemmaLaraSavill](https://github.com/GemmaLaraSavill)|5|0|9|2|2015-05-08|![GemmaLaraSavill](https://avatars3.githubusercontent.com/u/12323749)|
