@@ -1,6 +1,6 @@
 # Ranking Lugo
 
-Generado 08:03PM-March-08-2018.
+Generado 08:05PM-March-15-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,15 +12,15 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[nosolosw](https://github.com/nosolosw)|757|237|17|39|2011-01-25|![nosolosw](https://avatars0.githubusercontent.com/u/583546)|
-|2|[jesusVMayor](https://github.com/jesusVMayor)|598|37|6|15|2013-09-05|![jesusVMayor](https://avatars2.githubusercontent.com/u/5393537)|
-|3|[omar7r](https://github.com/omar7r)|260|0|13|21|2011-02-25|![omar7r](https://avatars2.githubusercontent.com/u/637695)|
-|4|[antoniovazquezblanco](https://github.com/antoniovazquezblanco)|223|0|22|26|2010-06-13|![antoniovazquezblanco](https://avatars1.githubusercontent.com/u/304193)|
-|5|[segundofdez](https://github.com/segundofdez)|190|0|15|19|2011-06-25|![segundofdez](https://avatars2.githubusercontent.com/u/875006)|
-|6|[oscarmlage](https://github.com/oscarmlage)|178|0|15|24|2009-06-24|![oscarmlage](https://avatars2.githubusercontent.com/u/98542)|
+|1|[nosolosw](https://github.com/nosolosw)|784|229|17|39|2011-01-25|![nosolosw](https://avatars0.githubusercontent.com/u/583546)|
+|2|[jesusVMayor](https://github.com/jesusVMayor)|591|37|6|15|2013-09-05|![jesusVMayor](https://avatars2.githubusercontent.com/u/5393537)|
+|3|[omar7r](https://github.com/omar7r)|262|0|13|21|2011-02-25|![omar7r](https://avatars2.githubusercontent.com/u/637695)|
+|4|[antoniovazquezblanco](https://github.com/antoniovazquezblanco)|227|0|22|25|2010-06-13|![antoniovazquezblanco](https://avatars1.githubusercontent.com/u/304193)|
+|5|[segundofdez](https://github.com/segundofdez)|192|0|15|18|2011-06-25|![segundofdez](https://avatars2.githubusercontent.com/u/875006)|
+|6|[oscarmlage](https://github.com/oscarmlage)|189|0|16|24|2009-06-24|![oscarmlage](https://avatars2.githubusercontent.com/u/98542)|
 |7|[dieg0v](https://github.com/dieg0v)|157|0|16|10|2011-06-23|![dieg0v](https://avatars3.githubusercontent.com/u/870654)|
-|8|[palas](https://github.com/palas)|74|0|11|3|2011-02-25|![palas](https://avatars2.githubusercontent.com/u/638102)|
-|9|[LucasMontero](https://github.com/LucasMontero)|72|0|4|4|2014-05-29|![LucasMontero](https://avatars0.githubusercontent.com/u/7733283)|
+|8|[palas](https://github.com/palas)|78|0|11|4|2011-02-25|![palas](https://avatars2.githubusercontent.com/u/638102)|
+|9|[LucasMontero](https://github.com/LucasMontero)|67|0|4|4|2014-05-29|![LucasMontero](https://avatars0.githubusercontent.com/u/7733283)|
 |10|[JCarlosVillar](https://github.com/JCarlosVillar)|66|0|5|4|2016-04-26|![JCarlosVillar](https://avatars1.githubusercontent.com/u/18684495)|
 |11|[joserprieto](https://github.com/joserprieto)|28|0|25|10|2011-10-21|![joserprieto](https://avatars2.githubusercontent.com/u/1142233)|
 |12|[chavaone](https://github.com/chavaone)|24|0|31|24|2011-07-28|![chavaone](https://avatars1.githubusercontent.com/u/944290)|
