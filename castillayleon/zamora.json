@@ -1,6 +1,6 @@
-{ "date": "07:59PM-April-05-2018",
+{ "date": "07:59PM-April-12-2018",
   "users": [
-  { "name": "Curicaveri",
+  { "name": "vgayolrs",
     "position": 1,
     "contributions": -1,
     "public": 0,
@@ -24,11 +24,11 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "AMoraga",
+  { "name": "arcxyz",
     "position": 3,
     "contributions": -1,
     "public": 0,
-    "private": 0,
+    "private": 60,
     "bio": "",
     "followers": -1,
     "repositories":-1,
@@ -36,7 +36,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "aaronpr95",
+  { "name": "amaliahern",
     "position": 4,
     "contributions": -1,
     "public": 0,
@@ -48,7 +48,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "josecriadom",
+  { "name": "aaronpr95",
     "position": 5,
     "contributions": -1,
     "public": 0,
@@ -60,11 +60,11 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "arcxyz",
+  { "name": "AMoraga",
     "position": 6,
     "contributions": -1,
     "public": 0,
-    "private": 60,
+    "private": 0,
     "bio": "",
     "followers": -1,
     "repositories":-1,
@@ -72,7 +72,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "ganipa93",
+  { "name": "josecriadom",
     "position": 7,
     "contributions": -1,
     "public": 0,
@@ -84,7 +84,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "vgayolrs",
+  { "name": "ganipa93",
     "position": 8,
     "contributions": -1,
     "public": 0,
@@ -96,7 +96,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "amaliahern",
+  { "name": "Curicaveri",
     "position": 9,
     "contributions": -1,
     "public": 0,

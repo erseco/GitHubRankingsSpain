@@ -1,7 +1,19 @@
-{ "date": "08:02PM-April-05-2018",
+{ "date": "08:02PM-April-12-2018",
   "users": [
-  { "name": "albertoluengo",
+  { "name": "jorgeSV",
     "position": 1,
+    "contributions": -1,
+    "public": 0,
+    "private": 0,
+    "bio": "",
+    "followers": -1,
+    "repositories":-1,
+    "organizations":-1,
+    "join": "",
+    "avatar": ""
+  },
+  { "name": "albertoluengo",
+    "position": 2,
     "contributions": -1,
     "public": 0,
     "private": 5,
@@ -13,18 +25,6 @@
     "avatar": ""
   },
   { "name": "Ebrithil",
-    "position": 2,
-    "contributions": -1,
-    "public": 0,
-    "private": 0,
-    "bio": "",
-    "followers": -1,
-    "repositories":-1,
-    "organizations":-1,
-    "join": "",
-    "avatar": ""
-  },
-  { "name": "chavaone",
     "position": 3,
     "contributions": -1,
     "public": 0,
@@ -36,7 +36,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "chucu",
+  { "name": "chavaone",
     "position": 4,
     "contributions": -1,
     "public": 0,
@@ -48,7 +48,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "jorgeSV",
+  { "name": "palas",
     "position": 5,
     "contributions": -1,
     "public": 0,
@@ -60,7 +60,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "WuShell",
+  { "name": "dieg0v",
     "position": 6,
     "contributions": -1,
     "public": 0,
@@ -72,7 +72,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "michon",
+  { "name": "WuShell",
     "position": 7,
     "contributions": -1,
     "public": 0,
@@ -84,7 +84,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "palas",
+  { "name": "chucu",
     "position": 8,
     "contributions": -1,
     "public": 0,
@@ -96,7 +96,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "cartoocm",
+  { "name": "eccoilmoro",
     "position": 9,
     "contributions": -1,
     "public": 0,
@@ -108,7 +108,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "dieg0v",
+  { "name": "MarcosBL",
     "position": 10,
     "contributions": -1,
     "public": 0,
@@ -120,7 +120,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "eccoilmoro",
+  { "name": "segundofdez",
     "position": 11,
     "contributions": -1,
     "public": 0,
@@ -132,7 +132,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "segundofdez",
+  { "name": "michon",
     "position": 12,
     "contributions": -1,
     "public": 0,
@@ -144,7 +144,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "MarcosBL",
+  { "name": "cartoocm",
     "position": 13,
     "contributions": -1,
     "public": 0,
@@ -156,7 +156,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "NeoPolus",
+  { "name": "rodrigorega",
     "position": 14,
     "contributions": -1,
     "public": 0,
@@ -168,7 +168,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "rodrigorega",
+  { "name": "NeoPolus",
     "position": 15,
     "contributions": -1,
     "public": 0,
@@ -180,7 +180,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "omar7r",
+  { "name": "joserprieto",
     "position": 16,
     "contributions": -1,
     "public": 0,
@@ -192,7 +192,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "joserprieto",
+  { "name": "oscarmlage",
     "position": 17,
     "contributions": -1,
     "public": 0,
@@ -204,7 +204,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "oscarmlage",
+  { "name": "omar7r",
     "position": 18,
     "contributions": -1,
     "public": 0,
@@ -228,7 +228,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "Reptiliancore",
+  { "name": "antoniovazquezblanco",
     "position": 20,
     "contributions": -1,
     "public": 0,
@@ -240,7 +240,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "rubenhortas",
+  { "name": "Reptiliancore",
     "position": 21,
     "contributions": -1,
     "public": 0,
@@ -252,7 +252,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "antoniovazquezblanco",
+  { "name": "man08",
     "position": 22,
     "contributions": -1,
     "public": 0,
@@ -264,7 +264,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "LucasMontero",
+  { "name": "rubenhortas",
     "position": 23,
     "contributions": -1,
     "public": 0,
@@ -276,7 +276,7 @@
     "join": "",
     "avatar": ""
   },
-  { "name": "man08",
+  { "name": "LucasMontero",
     "position": 24,
     "contributions": -1,
     "public": 0,
@@ -304,7 +304,7 @@
     "position": 26,
     "contributions": -1,
     "public": 0,
-    "private": 205,
+    "private": 192,
     "bio": "",
     "followers": -1,
     "repositories":-1,
