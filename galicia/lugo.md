@@ -1,6 +1,6 @@
 # Ranking Lugo
 
-Generado 08:28PM-May-10-2018.
+Generado 07:15AM-July-27-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,29 +12,29 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[nosolosw](https://github.com/nosolosw)|794|191|29|41|2011-01-25|![nosolosw](https://avatars0.githubusercontent.com/u/583546)|
-|2|[jesusVMayor](https://github.com/jesusVMayor)|575|37|7|14|2013-09-05|![jesusVMayor](https://avatars2.githubusercontent.com/u/5393537)|
-|3|[omar7r](https://github.com/omar7r)|273|0|13|21|2011-02-25|![omar7r](https://avatars2.githubusercontent.com/u/637695)|
-|4|[antoniovazquezblanco](https://github.com/antoniovazquezblanco)|235|0|22|27|2010-06-13|![antoniovazquezblanco](https://avatars1.githubusercontent.com/u/304193)|
-|5|[segundofdez](https://github.com/segundofdez)|191|0|15|18|2011-06-25|![segundofdez](https://avatars2.githubusercontent.com/u/875006)|
-|6|[dieg0v](https://github.com/dieg0v)|157|0|16|10|2011-06-23|![dieg0v](https://avatars3.githubusercontent.com/u/870654)|
-|7|[palas](https://github.com/palas)|156|0|11|4|2011-02-25|![palas](https://avatars2.githubusercontent.com/u/638102)|
-|8|[oscarmlage](https://github.com/oscarmlage)|131|0|18|26|2009-06-24|![oscarmlage](https://avatars2.githubusercontent.com/u/98542)|
-|9|[JCarlosVillar](https://github.com/JCarlosVillar)|48|0|5|4|2016-04-26|![JCarlosVillar](https://avatars1.githubusercontent.com/u/18684495)|
-|10|[LucasMontero](https://github.com/LucasMontero)|44|0|4|4|2014-05-29|![LucasMontero](https://avatars0.githubusercontent.com/u/7733283)|
-|11|[rodrigorega](https://github.com/rodrigorega)|43|0|17|4|2013-01-31|![rodrigorega](https://avatars2.githubusercontent.com/u/3441785)|
-|12|[chavaone](https://github.com/chavaone)|38|0|32|24|2011-07-28|![chavaone](https://avatars1.githubusercontent.com/u/944290)|
-|13|[joserprieto](https://github.com/joserprieto)|27|0|25|11|2011-10-21|![joserprieto](https://avatars2.githubusercontent.com/u/1142233)|
-|14|[MarcosBL](https://github.com/MarcosBL)|8|0|47|38|2010-09-06|![MarcosBL](https://avatars1.githubusercontent.com/u/389801)|
-|15|[WuShell](https://github.com/WuShell)|7|0|11|5|2011-06-25|![WuShell](https://avatars3.githubusercontent.com/u/875005)|
-|16|[man08](https://github.com/man08)|6|0|2|2|2015-07-07|![man08](https://avatars0.githubusercontent.com/u/13219860)|
-|17|[rubenhortas](https://github.com/rubenhortas)|4|0|30|36|2013-09-02|![rubenhortas](https://avatars2.githubusercontent.com/u/5363817)|
-|18|[NeoPolus](https://github.com/NeoPolus)|3|0|7|4|2012-02-04|![NeoPolus](https://avatars1.githubusercontent.com/u/1407768)|
-|19|[jorgeSV](https://github.com/jorgeSV)|1|0|25|5|2013-04-18|![jorgeSV](https://avatars1.githubusercontent.com/u/4189901)|
-|20|[eccoilmoro](https://github.com/eccoilmoro)|1|0|16|2|2013-01-28|![eccoilmoro](https://avatars1.githubusercontent.com/u/3404161)|
-|21|[albertoluengo](https://github.com/albertoluengo)|1|11|3|3|2012-08-30|![albertoluengo](https://avatars2.githubusercontent.com/u/2248231)|
-|22|[Reptiliancore](https://github.com/Reptiliancore)|1|0|4|2|2016-02-08|![Reptiliancore](https://avatars1.githubusercontent.com/u/17118706)|
-|23|[Ebrithil](https://github.com/Ebrithil)|0|0|6|5|2008-12-20|![Ebrithil](https://avatars2.githubusercontent.com/u/41769)|
-|24|[chucu](https://github.com/chucu)|0|0|9|3|2012-11-15|![chucu](https://avatars0.githubusercontent.com/u/2808398)|
-|25|[michon](https://github.com/michon)|0|0|7|3|2009-04-06|![michon](https://avatars3.githubusercontent.com/u/70982)|
-|26|[santiarg](https://github.com/santiarg)|0|0|4|4|2014-05-16|![santiarg](https://avatars1.githubusercontent.com/u/7600476)|
+|1|[nosolosw](https://github.com/nosolosw)|833|210|30|41|2011-01-25|![nosolosw]()|
+|2|[jesusVMayor](https://github.com/jesusVMayor)|490|35|7|14|2013-09-05|![jesusVMayor]()|
+|3|[antoniovazquezblanco](https://github.com/antoniovazquezblanco)|299|0|15|27|2010-06-13|![antoniovazquezblanco]()|
+|4|[omar7r](https://github.com/omar7r)|258|0|13|21|2011-02-25|![omar7r]()|
+|5|[palas](https://github.com/palas)|233|0|11|4|2011-02-25|![palas]()|
+|6|[segundofdez](https://github.com/segundofdez)|190|0|15|18|2011-06-25|![segundofdez]()|
+|7|[dieg0v](https://github.com/dieg0v)|157|0|16|10|2011-06-23|![dieg0v]()|
+|8|[chavaone](https://github.com/chavaone)|111|0|32|24|2011-07-28|![chavaone]()|
+|9|[oscarmlage](https://github.com/oscarmlage)|101|0|18|28|2009-06-24|![oscarmlage]()|
+|10|[rodrigorega](https://github.com/rodrigorega)|49|0|17|4|2013-01-31|![rodrigorega]()|
+|11|[joserprieto](https://github.com/joserprieto)|26|0|25|11|2011-10-21|![joserprieto]()|
+|12|[JCarlosVillar](https://github.com/JCarlosVillar)|18|0|5|4|2016-04-26|![JCarlosVillar]()|
+|13|[rubenhortas](https://github.com/rubenhortas)|8|0|30|37|2013-09-02|![rubenhortas]()|
+|14|[WuShell](https://github.com/WuShell)|7|0|11|5|2011-06-25|![WuShell]()|
+|15|[MarcosBL](https://github.com/MarcosBL)|6|0|47|39|2010-09-06|![MarcosBL]()|
+|16|[man08](https://github.com/man08)|6|0|2|2|2015-07-07|![man08]()|
+|17|[albertoluengo](https://github.com/albertoluengo)|1|26|3|3|2012-08-30|![albertoluengo]()|
+|18|[chucu](https://github.com/chucu)|1|0|10|4|2012-11-15|![chucu]()|
+|19|[LucasMontero](https://github.com/LucasMontero)|1|0|4|4|2014-05-29|![LucasMontero]()|
+|20|[martinffernandezf](https://github.com/martinffernandezf)|1|0|4|2|2016-02-08|![martinffernandezf]()|
+|21|[NeoPolus](https://github.com/NeoPolus)|0|0|7|4|2012-02-04|![NeoPolus]()|
+|22|[eccoilmoro](https://github.com/eccoilmoro)|0|0|16|2|2013-01-28|![eccoilmoro]()|
+|23|[Ebrithil](https://github.com/Ebrithil)|0|0|6|4|2008-12-20|![Ebrithil]()|
+|24|[jorgeSV](https://github.com/jorgeSV)|0|0|25|5|2013-04-18|![jorgeSV]()|
+|25|[michon](https://github.com/michon)|0|0|7|3|2009-04-06|![michon]()|
+|26|[santiarg](https://github.com/santiarg)|0|0|4|4|2014-05-16|![santiarg]()|

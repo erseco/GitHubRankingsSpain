@@ -1,6 +1,6 @@
 # Ranking Huesca
 
-Generado 07:57PM-May-10-2018.
+Generado 06:54AM-July-27-2018.
 
 El orden viene dado por las contribuciones públicas. Para aparecer en este ránking hay que tener, al menos, un repositorio público y un seguidor.
 
@@ -12,15 +12,15 @@ Licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
 | Puesto   |  Usuario  | Contrib. pub | Contrib. priv |Repos| Followers | Desde |  Avatar  |
 |----------|-----------|--------------|---------------|-----|-----------|-------|----------|
-|1|[fernand0](https://github.com/fernand0)|508|0|39|40|2008-03-06|![fernand0](https://avatars0.githubusercontent.com/u/2467)|
-|2|[SrPerso](https://github.com/SrPerso)|359|0|12|12|2016-02-09|![SrPerso](https://avatars0.githubusercontent.com/u/17146733)|
-|3|[jmendiara](https://github.com/jmendiara)|87|0|52|32|2011-06-15|![jmendiara](https://avatars0.githubusercontent.com/u/851359)|
-|4|[hbiarge](https://github.com/hbiarge)|69|0|34|37|2010-11-08|![hbiarge](https://avatars0.githubusercontent.com/u/473010)|
-|5|[inazense](https://github.com/inazense)|57|0|7|2|2016-08-16|![inazense](https://avatars0.githubusercontent.com/u/21070069)|
-|6|[giltesa](https://github.com/giltesa)|38|0|5|3|2014-08-26|![giltesa](https://avatars0.githubusercontent.com/u/8562315)|
-|7|[lopezmuzas](https://github.com/lopezmuzas)|6|0|9|7|2012-02-01|![lopezmuzas](https://avatars0.githubusercontent.com/u/1397384)|
-|8|[jchine](https://github.com/jchine)|4|0|18|8|2012-05-03|![jchine](https://avatars0.githubusercontent.com/u/1701751)|
-|9|[Albertowska](https://github.com/Albertowska)|4|0|10|4|2013-05-21|![Albertowska](https://avatars0.githubusercontent.com/u/4486925)|
-|10|[sergioibs](https://github.com/sergioibs)|3|0|9|3|2013-09-26|![sergioibs](https://avatars2.githubusercontent.com/u/5547593)|
-|11|[JuanS](https://github.com/JuanS)|1|0|135|7|2012-08-16|![JuanS](https://avatars1.githubusercontent.com/u/2165396)|
-|12|[fgarcialainez](https://github.com/fgarcialainez)|0|0|13|13|2012-05-19|![fgarcialainez](https://avatars3.githubusercontent.com/u/1755561)|
+|1|[fernand0](https://github.com/fernand0)|503|0|39|44|2008-03-06|![fernand0]()|
+|2|[SrPerso](https://github.com/SrPerso)|267|0|12|13|2016-02-09|![SrPerso]()|
+|3|[jmendiara](https://github.com/jmendiara)|87|0|55|32|2011-06-15|![jmendiara]()|
+|4|[hbiarge](https://github.com/hbiarge)|75|0|36|39|2010-11-08|![hbiarge]()|
+|5|[giltesa](https://github.com/giltesa)|52|0|6|5|2014-08-26|![giltesa]()|
+|6|[inazense](https://github.com/inazense)|40|0|7|2|2016-08-16|![inazense]()|
+|7|[fgarcialainez](https://github.com/fgarcialainez)|7|0|14|13|2012-05-19|![fgarcialainez]()|
+|8|[jchine](https://github.com/jchine)|3|0|18|8|2012-05-03|![jchine]()|
+|9|[viktorKhan](https://github.com/viktorKhan)|3|0|11|3|2013-06-13|![viktorKhan]()|
+|10|[sergioibs](https://github.com/sergioibs)|2|0|9|3|2013-09-26|![sergioibs]()|
+|11|[lopezmuzas](https://github.com/lopezmuzas)|2|0|9|7|2012-02-01|![lopezmuzas]()|
+|12|[JuanS](https://github.com/JuanS)|1|0|135|6|2012-08-16|![JuanS]()|
